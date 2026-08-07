@@ -1,0 +1,35 @@
+# ============================================================
+# Sentaurus TCAD — .gitignore
+# ============================================================
+
+# Simulation output files (large binary / data files)
+*.tdr
+*.plt
+*.log
+*.acplot
+*.bnd
+*.msh.cmd
+*.plx
+
+# Sentaurus Workbench project state files
+*.gvars
+*.sdb
+glog.txt
+*.dat
+
+# Intermediate mesh files
+*_msh.tdr
+*_bnd.tdr
+
+# Sentaurus Visual state
+*.svsettings
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor temp files
+*.swp
+*.swo
+*~
