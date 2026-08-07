@@ -1,6 +1,6 @@
 # Sentaurus TCAD — 2D MOSFET Process & Device Simulation
 
-**Summer Training Project | IIT / EICT Academy TCAD Workshop 2024**
+**Summer Training Project | IIT / EICT Academy TCAD Workshop 2026**
 **Author: Kevin Jacob | ECE, MBCET Trivandrum | Batch 2029**
 **GitHub: [github.com/programerz30](https://github.com/programerz30)**
 
@@ -309,5 +309,5 @@ The resistive-load inverter suffers from poor output low level (Vout_low > 0 whe
 
 ---
 
-*This work was completed as part of the Synopsys Sentaurus TCAD Summer Training Program 2024.*
+*This work was completed as part of the Synopsys Sentaurus TCAD Summer Training Program 2026.*
 *All TCAD scripts and results are original work by Kevin Jacob, ECE Dept., MBCET Trivandrum.*
